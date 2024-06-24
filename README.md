@@ -32,5 +32,7 @@ We are actively working on adding more features to enhance the educational value
 Ensure you have the necessary permissions before running this tool. Before starting the tool, you need to replace `{API_KEY}` and `{Chat_Id}` with your own values directly in the code where these variables are defined.
 
 1. Open the the section of the code where `{API_KEY}` and `{Chat_Id}` are defined.
-2. Replace `{API_KEY}` with your actual Telegram bot API key.
-3. Replace `{Chat_Id}` with your actual Telegram chat ID.
+   ![_GitHub_Merlot-2 0](https://github.com/theaqueen21/Merlot-2.0/assets/94680549/a5b157d4-0a4f-4de7-ab0e-dd458ccf80ea)
+
+3. Replace `{API_KEY}` with your actual Telegram bot API key.
+4. Replace `{Chat_Id}` with your actual Telegram chat ID.
